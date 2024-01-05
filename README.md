@@ -14,4 +14,4 @@ For more information about the application, please visit our application via the
 
 ## Support
 
-If you have any questions or support inquiries, please contact leave a comment in the review section of the Microsoft Store for this application and it will be addressed as soon as possible. 
+If you have any questions or support inquiries, please contact leave a comment in the review section of the Microsoft Store for this application and it will be addressed as soon as possible, otheriwise please reach out via our parent account on X.com, [@TheITPharaoh](https://twitter.com/TheITPharaoh). 
