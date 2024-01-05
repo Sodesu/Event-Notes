@@ -1,4 +1,4 @@
-# EventNotes
+# Event Notes
 
 This repository hosts the privacy policy for the EventNotes application, available on the Microsoft Store.
 
